@@ -40,8 +40,4 @@
 >
 > `[neetfrog@github ~]$ contact`
 >
-> github.com/neetfrog
->
-> ignasnefas@gmail.com
->
-> nefas.tv
+> github.com/neetfrog | ignasnefas@gmail.com | nefas.tv
