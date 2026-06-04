@@ -58,18 +58,6 @@
 > - edit README.md   # change this profile layout
 > - git push         # publish updates
 > - ssh / https      # clone any repo
+> - contact          # github.com/neetfrog, analogue.lt
 >
 > `[user@github ~]$`
-
----
-
-## Notes
-
-- This profile is designed to feel like a terminal dashboard.
-- Repo list is pulled from my public GitHub account.
-- Link to the live demo is shown where available.
-
-## Contact
-
-- GitHub: [github.com/neetfrog](https://github.com/neetfrog)
-- Web: [https://analogue.lt](https://analogue.lt)
