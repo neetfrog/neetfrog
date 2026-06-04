@@ -1,11 +1,11 @@
 # neetfrog@github
 >
-> `[user@github ~]$ cat about.txt`
+> `[neetfrog@github ~]$ cat about.txt`
 >
 > i occasionally write code that gets deployed to the internet.
 > no startup grind, no vc buzzwords — just late-night commits and whatever felt fun to build.
 >
-> `[user@github ~]$ tree repos`
+> `[neetfrog@github ~]$ tree repos`
 > - [analogue.lt](https://github.com/neetfrog/analogue.lt) — personal analogue photography portfolio
 > - [asciid](https://github.com/neetfrog/asciid) — realtime browser ASCII graphics
 > - [ChipBeats](https://github.com/neetfrog/ChipBeats) — gameboy-style drum synth
@@ -38,6 +38,8 @@
 > - [Zenflow](https://github.com/neetfrog/Zenflow) — Kanban without the corporate migraine
 > - [userscripts](https://github.com/neetfrog/userscripts) — tiny website fixes and browser helpers
 >
-> `[user@github ~]$ contact`
+> `[neetfrog@github ~]$ contact`
 >
-> github.com/neetfrog, ignasnefas@gmail.com, nefas.tv
+> github.com/neetfrog
+> ignasnefas@gmail.com
+> nefas.tv
