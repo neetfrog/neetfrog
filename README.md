@@ -6,15 +6,9 @@
 > │ whatever felt fun to build.                                         │
 > └──────────────────────────────────────────────────────────────────────┘
 >
-> `[user@github ~]$ echo "hi"`
-> hi
->
 > `[user@github ~]$ cat about.txt`
-> - name: neetfrog
-> - role: full-stack tinkerer
-> - focus: browser tools, audio, analogue interfaces, and creative UI
-> - current: building small apps with TypeScript + web tech
-> - ethos: fast, playful, and polished without the fluff
+> i occasionally write code that gets deployed to the internet.
+> no startup grind, no vc buzzwords — just late-night commits and whatever felt fun to build.
 >
 > `[user@github ~]$ tree repos`
 > - [analogue.lt](https://github.com/neetfrog/analogue.lt) — personal analogue photography portfolio
@@ -34,25 +28,6 @@
 > - [driftnet](https://github.com/neetfrog/driftnet) — forgotten internet discovery
 > - [sdrExplorer](https://github.com/neetfrog/sdrExplorer) — radios, numbers stations, static explorer
 > - [neetfrog](https://github.com/neetfrog/neetfrog) — this profile repository
->
-> `[user@github ~]$ ls -l projects`
-> - [analogue.lt](https://github.com/neetfrog/analogue.lt) — TypeScript, 1 star, [live](https://analogue.lt)
-> - [Teletexter](https://github.com/neetfrog/Teletexter) — TypeScript, 0 stars, [live](https://teletexter.vercel.app)
-> - [Modulizer](https://github.com/neetfrog/Modulizer) — TypeScript, 0 stars, [live](https://modulizer.vercel.app)
-> - [userscripts](https://github.com/neetfrog/userscripts) — JavaScript, 0 stars
-> - [ChipBeats](https://github.com/neetfrog/ChipBeats) — TypeScript, 1 star, [live](https://chip-beats.vercel.app)
-> - [TheFilmLab](https://github.com/neetfrog/TheFilmLab) — TypeScript, 1 star, [live](https://thefilmlab.vercel.app/)
-> - [OpenEncoder](https://github.com/neetfrog/OpenEncoder) — TypeScript, 1 star, [live](https://openencoder.vercel.app/)
-> - [DupeClear](https://github.com/neetfrog/DupeClear) — TypeScript, 2 stars, [live](https://dupeclear.vercel.app/)
-> - [asciid](https://github.com/neetfrog/asciid) — TypeScript, 0 stars, [live](https://asciid.vercel.app/)
-> - [ReddiTunes](https://github.com/neetfrog/ReddiTunes) — TypeScript, 1 star, [live](https://redditunes.vercel.app/)
-> - [FetchMeThis](https://github.com/neetfrog/FetchMeThis) — TypeScript, 1 star, [live](https://fetchmethis.vercel.app/)
-> - [LoopForge](https://github.com/neetfrog/LoopForge) — TypeScript, 0 stars, [live](https://theloopforge.vercel.app/)
-> - [One-Thing-At-The-Time](https://github.com/neetfrog/One-Thing-At-The-Time) — TypeScript, 0 stars, [live](https://one-thing-at-the-time.vercel.app)
-> - [PixelDither](https://github.com/neetfrog/PixelDither) — TypeScript, 1 star, [live](https://pixeldither.vercel.app)
-> - [driftnet](https://github.com/neetfrog/driftnet) — TypeScript, 0 stars, [live](https://driftnet-mu.vercel.app)
-> - [sdrExplorer](https://github.com/neetfrog/sdrExplorer) — TypeScript, 0 stars, [live](https://sdrexplorer.vercel.app/)
-> - [neetfrog](https://github.com/neetfrog/neetfrog) — -, 0 stars
 >
 > `[user@github ~]$ help`
 > - edit README.md   # change this profile layout
