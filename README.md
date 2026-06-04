@@ -39,4 +39,4 @@
 > - [userscripts](https://github.com/neetfrog/userscripts) — tiny website fixes and browser helpers
 >
 > `[user@github ~]$ contact`
-> - contact          # github.com/neetfrog, ignasnefas@gmail.com, nefas.tv
+> github.com/neetfrog, ignasnefas@gmail.com, nefas.tv
