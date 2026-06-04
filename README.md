@@ -38,10 +38,7 @@
 > - [Zenflow](https://github.com/neetfrog/Zenflow) — Kanban without the corporate migraine
 > - [userscripts](https://github.com/neetfrog/userscripts) — tiny website fixes and browser helpers
 >
-> `[user@github ~]$ help`
-> - edit README.md   # change this profile layout
-> - git push         # publish updates
-> - ssh / https      # clone any repo
+> `[user@github ~]$ contact`
 > - contact          # github.com/neetfrog, analogue.lt
 >
 > `[user@github ~]$`
