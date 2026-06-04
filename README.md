@@ -1,6 +1,7 @@
 # neetfrog@github
 >
 > `[user@github ~]$ cat about.txt`
+
 > i occasionally write code that gets deployed to the internet.
 > no startup grind, no vc buzzwords — just late-night commits and whatever felt fun to build.
 >
