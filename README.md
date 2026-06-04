@@ -2,7 +2,9 @@
 
 ```text
 ┌───────────────────────────────[ GitHub ]───────────────────────────────┐
-│ Welcome to my profile. This page is styled like a terminal overview. │
+│ I occasionally write code that gets deployed to the internet.       │
+│ No startup grind, no VC buzzwords—just late-night commits and       │
+│ whatever felt fun to build.                                         │
 └──────────────────────────────────────────────────────────────────────┘
 
 [user@github ~]$ echo "hi"
